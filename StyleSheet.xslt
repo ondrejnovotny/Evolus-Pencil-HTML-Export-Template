@@ -5,7 +5,7 @@
     doctype-system="DTD/xhtml1-strict.dtd"
     cdata-section-elements="script style"
     indent="yes"
-    encoding="ISO-8859-1"/>
+    encoding="UTF-8"/>
     <xsl:output method="html"/>
 
     <xsl:template match="/">
